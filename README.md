@@ -1,4 +1,4 @@
-# express-template
+# node-express-project
 
 A base express application with a database, routes, controllers and models.
 
@@ -6,4 +6,4 @@ A base express application with a database, routes, controllers and models.
 - [x] Express
 - [x] Body Parser
 - [x] mySql
-# node-express-project
+- [x] Require
