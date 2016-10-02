@@ -1,0 +1,26 @@
+{
+  "name": "express-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitrakmt/express-template.git"
+  },
+  "author": "Michael Mitrakos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitrakmt/express-template/issues"
+  },
+  "homepage": "https://github.com/mitrakmt/express-template#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mysql": "^2.11.1",
+    "request": "^2.75.0"
+  }
+}
